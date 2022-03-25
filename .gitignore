@@ -1,0 +1,6 @@
+/env/
+.idea/
+__pycache__/
+tests/__pycache__/
+pages/__pycache__/
+chromedriver.exe
